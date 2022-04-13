@@ -13,5 +13,6 @@ EditorBuildSettings:
     guid: f23dedc48b2e2ae409bf9a8c0f845067
   m_configObjects:
     com.htc.upm.wave.xrsdk.xrsettings: {fileID: 11400000, guid: 1e166ee1934d5ef42bd80d118c124985, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 07f7eafd9935b604eb3eaebc4b396ee6, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 72c91bd8ec899ad4d93e35975b89b14b, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: d1514f42711b8b247b26f1dc6c8ad5ab, type: 2}
