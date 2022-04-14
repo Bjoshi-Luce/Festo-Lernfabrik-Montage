@@ -29,7 +29,7 @@ public class WheelController_Unity : MonoBehaviour
         //leftTrigger = device1.TryGetFeatureValue(CommonUsages.gripButton, out leftTrigger);
         //Debug.Log(leftTrigger);
         
-        if (device1.TryGetFeatureValue(CommonUsages.triggerButton, out leftTrigger)&& leftTrigger)
+        if (device1.TryGetFeatureValue(CommonUsages.triggerButton, out leftTrigger) && leftTrigger)
         {
             Debug.Log(leftTrigger);
             float motor = 0;

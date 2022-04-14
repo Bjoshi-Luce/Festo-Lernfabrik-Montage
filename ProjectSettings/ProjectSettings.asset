@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Festo  Lernfabrik trail
+  productName: Festo Lernfabrik trail
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -40,7 +40,7 @@ PlayerSettings:
     width: 1
     height: 1
   m_SplashScreenLogos: []
-  m_VirtualRealitySplashScreen: {fileID: 0}
+  m_VirtualRealitySplashScreen: {fileID: 2800000, guid: 03b939a87d14fa542a1790ffee194620, type: 3}
   m_HolographicTrackingLossScreen: {fileID: 0}
   defaultScreenWidth: 1024
   defaultScreenHeight: 768
@@ -138,6 +138,10 @@ PlayerSettings:
   preloadedAssets:
   - {fileID: 0}
   - {fileID: 0}
+  - {fileID: -3204311218952478211, guid: d1514f42711b8b247b26f1dc6c8ad5ab, type: 2}
+  - {fileID: 11400000, guid: 07f7eafd9935b604eb3eaebc4b396ee6, type: 2}
+  - {fileID: 11400000, guid: 1e166ee1934d5ef42bd80d118c124985, type: 2}
+  - {fileID: -6179897351241386705, guid: 72c91bd8ec899ad4d93e35975b89b14b, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
