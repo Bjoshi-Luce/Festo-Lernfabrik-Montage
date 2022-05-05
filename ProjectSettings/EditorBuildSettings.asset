@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Main Menu.unity
     guid: 002b96299d8cb2249a9c9d6482dbca78
   - enabled: 1
-    path: Assets/Scenes/VR sockets XRIT.unity
+    path: Assets/Scenes/Bearbeiten-VR sockets XRIT.unity
     guid: f23dedc48b2e2ae409bf9a8c0f845067
   - enabled: 1
     path: Assets/Scenes/Drive Ferrari.unity
