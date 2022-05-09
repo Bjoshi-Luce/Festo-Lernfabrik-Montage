@@ -7,7 +7,7 @@ public class MainMenu : MonoBehaviour
 {
     public void start()
     {
-        SceneManager.LoadScene("VR sockets XRIT");
+        SceneManager.LoadScene("Verteiler-VR sockets XRIT");
     }
 
     public void quit()
@@ -23,5 +23,18 @@ public class MainMenu : MonoBehaviour
     public void Ferrari()
     {
         SceneManager.LoadScene("Drive Ferrari");
+    }
+
+    public void Prufenscene()
+    {
+        SceneManager.LoadScene("Prüfen-VR sockets XRIT");
+    }
+    public void Bearbeitenscene()
+    {
+        SceneManager.LoadScene("Bearbeiten-VR sockets XRIT");
+    }
+    public void Handhabenscene()
+    {
+        SceneManager.LoadScene("Handhaben-VR sockets XRIT");
     }
 }
